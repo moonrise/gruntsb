@@ -1,0 +1,26 @@
+{
+  "name": "grunt",
+  "title": "Grunt",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bjjeong/gruntjquery",
+  "author": {
+    "name": "bjjeong",
+    "email": "bjjeong@cisco.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bjjeong/gruntjquery.git"
+  },
+  "bugs": "https://github.com/bjjeong/gruntjquery/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bjjeong/gruntjquery/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
